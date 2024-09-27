@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-group{
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 5px;
+    width: 500px;
+    padding: 30px;
+    background:#2F4858;
+    color: #F26419;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    box-shadow: 7px 13px 37px #A5430E;
+}
+
+.form-group h4{
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+
+.dato::placeholder{
+    color: #F26419;
+}
+
+.dato{
+    width: 100%;
+    background: transparent;
+    padding: 10px;
+    border: 1px solid #86BBD8;
+    color: #F26419;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    margin-left: 5px;
+}
+
+.boton{
+    width: 50%;
+    border: none;
+    padding: 10px;
+    background:#33658A;
+    color: #F26419;
+    margin: 0 125px;
+    font-size: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
